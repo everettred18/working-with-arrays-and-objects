@@ -40,8 +40,9 @@
 */
 
 function showValues( obj ) {
-  //Code Here
-}
+  for (obj in object) {
+  }
+  }
 
 
 
